@@ -12,3 +12,5 @@ Sesi 1
 - Tipe Data
 - Strong vs Weak Typing
 - Type Conversion
+
+https://github.com/Hipxel-dev/
